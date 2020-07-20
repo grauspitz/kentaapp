@@ -19,7 +19,7 @@
     "git": "^0.1.5",
     "jcore-react-native": "^1.7.5",
     "jpush-react-native": "^2.7.5",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "moment": "^2.24.0",
     "native-base": "^2.13.12",
     "react": "16.11.0",
